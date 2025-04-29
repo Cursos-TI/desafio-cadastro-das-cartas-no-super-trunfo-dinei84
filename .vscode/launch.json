@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Dinei/Documents/GitHub/desafio-cadastro-das-cartas-no-super-trunfo-dinei84/Aventureiro",
-      "program": "c:/Users/Dinei/Documents/GitHub/desafio-cadastro-das-cartas-no-super-trunfo-dinei84/Aventureiro/build/Debug/outDebug",
+      "cwd": "c:/Users/Dinei/Documents/GitHub/desafio-cadastro-das-cartas-no-super-trunfo-dinei84/Mestre",
+      "program": "c:/Users/Dinei/Documents/GitHub/desafio-cadastro-das-cartas-no-super-trunfo-dinei84/Mestre/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
