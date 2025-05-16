@@ -6,7 +6,9 @@
  * - Bispo: Movimento de 5 casas na diagonal para cima e à direita (usando while)
  * - Rainha: Movimento de 8 casas para a esquerda (usando do-while)
  * 
- * O programa imprime no console a direção do movimento a cada casa percorrida.
+ * Autor: Claudinei Almeida Souza
+ * Data: 15/05/2025
+ * 
  */
 
  #include <stdio.h>
